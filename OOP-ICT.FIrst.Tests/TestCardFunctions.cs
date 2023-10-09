@@ -16,6 +16,6 @@ public class TestCardFunctions
         var suit = "some suit";
         
         Assert.Equal(10, value);
-        Assert.Equal("some suit", suit);
+        Assert.Equal("some suit", "crash test");
     }    
 }
